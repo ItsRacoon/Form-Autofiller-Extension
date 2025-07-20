@@ -15,7 +15,6 @@ This Chrome Extension auto-fills placement and academic forms for students by re
 ```
 SmartFormAutofiller/
 ├── manifest.json
-├── background.js
 ├── content.js
 ├── popup.html
 ├── popup.js
@@ -53,9 +52,6 @@ chrome.storage.local.set({
 });
 ```
 
-## 🌐 Example Supported Form
-
-- Google Form: [Placement Form Example](https://docs.google.com/forms/d/e/1FAIpQLSeZ1D9ACG4kpsEUrdT4RFShtFyKZNSHXZVDWcNFISygbyKa1A/viewform?pli=1)
 
 ## 🐞 Troubleshooting
 
